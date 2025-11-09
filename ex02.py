@@ -1,0 +1,5 @@
+print("--- SOMA DE DOIS NÚMEROS ---")
+n1 = input("Digite o primeiro número: ")
+n2 = input("Digite o segundo número: ")
+soma = (int(n1) + int(n2))
+print(f"Soma dos números: \nNúmero 1: {n1} \nNúmero 2: {n2} \nResultado: {soma}")

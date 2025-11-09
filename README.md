@@ -11,7 +11,7 @@ Use esta lista para acompanhar seu progresso. Marque os exercícios que você co
 
 ### 1. Variáveis, Operadores e Entrada/Saída
 - [X] **Problema 1:** Peça ao usuário seu nome e imprima "Olá, [Nome]!".
-- [ ] **Problema 2:** Peça dois números, some-os e mostre o resultado.
+- [X] **Problema 2:** Peça dois números, some-os e mostre o resultado.
 - [ ] **Problema 3:** Peça dois números e mostre a subtração, multiplicação e divisão.
 - [ ] **Problema 4:** Calcule a média de três notas fornecidas pelo usuário.
 - [ ] **Problema 5:** Converta metros para centímetros (peça o valor em metros).
