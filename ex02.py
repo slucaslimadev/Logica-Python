@@ -1,3 +1,5 @@
+#**Problema 2:** Peça dois números, some-os e mostre o resultado.
+
 print("--- SOMA DE DOIS NÚMEROS ---")
 n1 = input("Digite o primeiro número: ")
 n2 = input("Digite o segundo número: ")

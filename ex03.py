@@ -1,3 +1,6 @@
+#**Problema 3:** Peça dois números e mostre a subtração, multiplicação e divisão.
+
+
 print("--- CALCULOS DE SUBTRAÇÃO, ADIÇÃO, MULTIPLICAÇÃO, DIVISÃO")
 n1 = input("Digite o primeiro número: ")
 n2 = input("Digite o segundo número: ")

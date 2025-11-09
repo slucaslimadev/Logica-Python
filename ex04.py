@@ -1,3 +1,6 @@
+#**Problema 4:** Calcule a média de três notas fornecidas pelo usuário.
+
+
 print("--- CALCULO DE MÉDIA ---")
 nota1 = int(input("Digite a primeira nota: "))
 nota2 = int(input("Digite a segunda nota: "))
