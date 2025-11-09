@@ -13,7 +13,7 @@ Use esta lista para acompanhar seu progresso. Marque os exercícios que você co
 - [X] **Problema 1:** Peça ao usuário seu nome e imprima "Olá, [Nome]!".
 - [X] **Problema 2:** Peça dois números, some-os e mostre o resultado.
 - [X] **Problema 3:** Peça dois números e mostre a subtração, multiplicação e divisão.
-- [ ] **Problema 4:** Calcule a média de três notas fornecidas pelo usuário.
+- [X] **Problema 4:** Calcule a média de três notas fornecidas pelo usuário.
 - [ ] **Problema 5:** Converta metros para centímetros (peça o valor em metros).
 - [ ] **Problema 6:** Converta Celsius para Fahrenheit ($F = C \times \frac{9}{5} + 32$).
 - [ ] **Problema 7:** Calcule a área de um quadrado (peça o lado).
