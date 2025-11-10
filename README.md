@@ -32,9 +32,9 @@ Use esta lista para acompanhar seu progresso. Marque os exercícios que você co
 - [X] **Problema 15:** Peça três números e diga qual deles é o maior.
 - [X] **Problema 16:** Peça três números e diga qual deles é o menor.
 - [X] **Problema 17:** Calcule o IMC (Peso / Altura²) e classifique: Abaixo do peso, Peso normal, Sobrepeso.
-- [ ] **Problema 18:** Simule um login. Peça usuário e senha. Se for "admin" e "1234", dê "Acesso concedido", senão "Acesso negado".
-- [ ] **Problema 19:** Peça três lados de um triângulo e verifique se eles formam um triângulo.
-- [ ] **Problema 20:** Se formarem um triângulo (exercício 19), diga se é Equilátero, Isósceles ou Escaleno.
+- [X] **Problema 18:** Simule um login. Peça usuário e senha. Se for "admin" e "1234", dê "Acesso concedido", senão "Acesso negado".
+- [X] **Problema 19:** Peça três lados de um triângulo e verifique se eles formam um triângulo.
+- [X] **Problema 20:** Se formarem um triângulo (exercício 19), diga se é Equilátero, Isósceles ou Escaleno.
 
 ### 3. Loops (for e while)
 - [ ] **Problema 21:** Imprima os números de 1 a 10.
