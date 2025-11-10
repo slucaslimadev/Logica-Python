@@ -29,9 +29,9 @@ Use esta lista para acompanhar seu progresso. Marque os exercícios que você co
 - [X] **Problema 12:** Verifique se um número é positivo, negativo ou zero.
 - [X] **Problema 13:** Peça a idade e verifique se o usuário é maior de idade (>= 18).
 - [X] **Problema 14:** Peça duas notas e verifique se o aluno foi aprovado (média >= 7.0).
-- [ ] **Problema 15:** Peça três números e diga qual deles é o maior.
-- [ ] **Problema 16:** Peça três números e diga qual deles é o menor.
-- [ ] **Problema 17:** Calcule o IMC (Peso / Altura²) e classifique: Abaixo do peso, Peso normal, Sobrepeso.
+- [X] **Problema 15:** Peça três números e diga qual deles é o maior.
+- [X] **Problema 16:** Peça três números e diga qual deles é o menor.
+- [X] **Problema 17:** Calcule o IMC (Peso / Altura²) e classifique: Abaixo do peso, Peso normal, Sobrepeso.
 - [ ] **Problema 18:** Simule um login. Peça usuário e senha. Se for "admin" e "1234", dê "Acesso concedido", senão "Acesso negado".
 - [ ] **Problema 19:** Peça três lados de um triângulo e verifique se eles formam um triângulo.
 - [ ] **Problema 20:** Se formarem um triângulo (exercício 19), diga se é Equilátero, Isósceles ou Escaleno.
