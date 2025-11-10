@@ -16,9 +16,9 @@ Use esta lista para acompanhar seu progresso. Marque os exercícios que você co
 - [X] **Problema 4:** Calcule a média de três notas fornecidas pelo usuário.
 - [X] **Problema 5:** Converta metros para centímetros (peça o valor em metros).
 - [X] **Problema 6:** Converta Celsius para Fahrenheit ($F = C \times \frac{9}{5} + 32$).
-- [ ] **Problema 7:** Calcule a área de um quadrado (peça o lado).
-- [ ] **Problema 8:** Calcule a área de um triângulo (peça base e altura).
-- [ ] **Problema 9:** Peça o ano de nascimento e calcule a idade do usuário.
+- [X] **Problema 7:** Calcule a área de um quadrado (peça o lado).
+- [X] **Problema 8:** Calcule a área de um triângulo (peça base e altura).
+- [] **Problema 9:** Peça o ano de nascimento e calcule a idade do usuário.
 - [ ] **Problema 10:** Calcule o sucessor e o antecessor de um número.
 
 ### 2. Operadores Lógicos e Condicionais (if/elif/else)
