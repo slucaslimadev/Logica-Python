@@ -28,7 +28,7 @@ Use esta lista para acompanhar seu progresso. Marque os exercícios que você co
 - [X] **Problema 11:** Verifique se um número é par ou ímpar.
 - [X] **Problema 12:** Verifique se um número é positivo, negativo ou zero.
 - [X] **Problema 13:** Peça a idade e verifique se o usuário é maior de idade (>= 18).
-- [] **Problema 14:** Peça duas notas e verifique se o aluno foi aprovado (média >= 7.0).
+- [X] **Problema 14:** Peça duas notas e verifique se o aluno foi aprovado (média >= 7.0).
 - [ ] **Problema 15:** Peça três números e diga qual deles é o maior.
 - [ ] **Problema 16:** Peça três números e diga qual deles é o menor.
 - [ ] **Problema 17:** Calcule o IMC (Peso / Altura²) e classifique: Abaixo do peso, Peso normal, Sobrepeso.
