@@ -4,6 +4,9 @@ Um repositório com 100 exercícios de lógica de programação, divididos por n
 
 Use esta lista para acompanhar seu progresso. Marque os exercícios que você completar!
 
+## Estrutura do projeto 
+
+
 ## 🎓 Nível Iniciante
 (Foco: Sintaxe básica, variáveis, condicionais e loops)
 
@@ -67,4 +70,92 @@ Use esta lista para acompanhar seu progresso. Marque os exercícios que você co
 - [ ] **Problema 40:** Crie uma função `encontrar_maior(n1, n2, n3)` que retorna o maior número.
 - [ ] **Problema 41:** Crie uma função que recebe uma lista de números e retorna a soma deles.
 - [ ] **Problema 42:** Crie uma função que recebe uma lista e retorna o maior número da lista.
-- [ ] **Problema 43:** Crie uma função que recebe uma string e retorna `True` se
+- [ ] **Problema 43:** Crie uma função que recebe uma string e retorna `True` se ela for um palíndromo.
+- [ ] **Problema 44:** Crie uma função que calcula juros compostos.
+- [ ] **Problema 45:** Crie uma função que converte Celsius para Fahrenheit (e outra que faz o inverso).
+
+### 2. Listas (Arrays)
+- [ ] **Problema 46:** Crie uma lista de 5 números. Peça um número ao usuário e verifique se ele está na lista.
+- [ ] **Problema 47:** Peça 10 números, armazene em uma lista e depois imprima a lista na ordem inversa.
+- [ ] **Problema 48:** Peça 5 notas de um aluno, armazene em uma lista e calcule a média.
+- [ ] **Problema 49:** Dada uma lista `[1, 2, 3, 4, 5]`, crie uma nova lista apenas com os números pares (use *List Comprehension*).
+- [ ] **Problema 50:** Remova todos os números duplicados de uma lista.
+- [ ] **Problema 51:** Encontre o segundo maior número em uma lista.
+- [ ] **Problema 52:** Ordene uma lista de números sem usar a função `sort()` (ex: implemente o *Bubble Sort*).
+- [ ] **Problema 53:** Junte duas listas e depois ordene o resultado.
+- [ ] **Problema 54:** Implemente um sistema de "lista de tarefas" (Adicionar, Listar, Remover).
+
+### 3. Matrizes (Listas de Listas)
+- [ ] **Problema 55:** Crie uma matriz 3x3 e preencha com valores lidos do teclado.
+- [ ] **Problema 56:** Dada uma matriz 3x3, calcule a soma de todos os seus elementos.
+- [ ] **Problema 57:** Calcule a soma dos elementos da diagonal principal de uma matriz quadrada.
+- [ ] **Problema 58:** Encontre o maior valor em uma matriz 5x5.
+- [ ] **Problema 59:** Implemente o Jogo da Velha (verificando o vencedor).
+
+### 4. Dicionários (Dicts)
+- [ ] **Problema 60:** Crie um dicionário para armazenar o nome e a nota de 3 alunos.
+- [ ] **Problema 61:** Crie um dicionário que represente um "cadastro de cliente" (nome, email, telefone).
+- [ ] **Problema 62:** Conte a frequência de cada palavra em uma frase.
+- [ ] **Problema 63:** Conte a frequência de cada *letra* em uma string.
+- [ ] **Problema 64:** Simule um carrinho de compras usando um dicionário (produto: preço). Calcule o total.
+- [ ] **Problema 65:** Agrupe uma lista de pessoas (dicionários) por cidade.
+
+### 5. Módulos e Arquivos
+- [ ] **Problema 66:** (Módulo `random`) Crie um jogo de adivinhação (número de 1 a 100).
+- [ ] **Problema 67:** (Módulo `random`) Simule o lançamento de um dado (D6) 100 vezes e conte as faces.
+- [ ] **Problema 68:** (Módulo `datetime`) Mostre a data e hora atuais.
+- [ ] **Problema 69:** (Módulo `datetime`) Calcule quantos dias faltam para o Natal.
+- [ ] **Problema 70:** (Arquivos) Escreva os números de 1 a 10 em um arquivo `numeros.txt`.
+- [ ] **Problema 71:** (Arquivos) Leia o arquivo `numeros.txt` e calcule a soma dos números.
+- [ ] **Problema 72:** (Módulo `json`) Salve o dicionário de "cadastro de cliente" (exercício 61) em um arquivo `cliente.json`.
+- [ ] **Problema 73:** (Módulo `json`) Leia o arquivo `cliente.json` e imprima os dados.
+
+---
+
+## 🏆 Nível Avançado
+(Foco: POO, Algoritmos, Estruturas de Dados e Recursão)
+
+---
+
+### 1. Programação Orientada a Objetos (POO)
+- [ ] **Problema 74:** Crie uma classe `Carro` (atributos `marca`, `modelo`, `ano`; métodos `ligar()`, `desligar()`, `acelerar()`).
+- [ ] **Problema 75:** Crie uma classe `ContaBancaria` (atributos `saldo`; métodos `depositar()`, `sacar()`, `ver_saldo()`).
+- [ ] **Problema 76:** Use Herança: Crie uma classe `ContaPoupanca` que herda de `ContaBancaria` e adiciona um método `render_juros()`.
+- [ ] **Problema 77:** Use Herança: Crie uma classe `ContaCorrente` que herda de `ContaBancaria` e tem um atributo `limite_cheque_especial`.
+- [ ] **Problema 78:** Crie um sistema de "Biblioteca" com classes: `Livro`, `Membro` e `Biblioteca`.
+- [ ] **Problema 79:** Use Polimorfismo: Crie uma classe base `Animal` com um método `fazer_som()`. Crie `Cachorro` e `Gato` que sobrescrevem o método.
+- [ ] **Problema 80:** Use Encapsulamento: Na classe `ContaBancaria`, torne o `saldo` um atributo privado (ex: `__saldo`).
+- [ ] **Problema 81:** Crie classes para um mini-RPG (`Personagem`, `Guerreiro`, `Mago`, `Inimigo`) com um método `atacar(alvo)`.
+
+### 2. Recursão
+- [ ] **Problema 82:** Crie uma função recursiva para calcular o Fatorial.
+- [ ] **Problema 83:** Crie uma função recursiva para calcular a sequência de Fibonacci.
+- [ ] **Problema 84:** Crie uma função recursiva para somar todos os elementos de uma lista.
+- [ ] **Problema 85:** Crie uma função recursiva para inverter uma string.
+- [ ] **Problema 86:** Implemente a Busca Binária (Binary Search) usando recursão.
+
+### 3. Algoritmos de Ordenação e Busca (Implementar do zero)
+- [ ] **Problema 87:** Implemente o **Bubble Sort**. 
+- [ ] **Problema 88:** Implemente o **Selection Sort**. 
+- [ ] **Problema 89:** Implemente o **Insertion Sort**.
+- [ ] **Problema 90:** Implemente o **Merge Sort** (requer recursão). 
+- [ ] **Problema 91:** Implemente o **Quick Sort** (requer recursão).
+- [ ] **Problema 92:** Implemente a **Busca Binária** (em uma lista já ordenada). 
+
+[Image of Binary Search algorithm diagram]
+
+
+### 4. Estruturas de Dados (Implementar do zero)
+- [ ] **Problema 93:** Implemente uma **Pilha (Stack)** usando uma lista (métodos: `push`, `pop`, `peek`).
+- [ ] **Problema 94:** Implemente uma **Fila (Queue)** usando uma lista (métodos: `enqueue`, `dequeue`).
+- [ ] **Problema 95:** Use a Pilha para verificar se parênteses em uma expressão estão balanceados.
+- [ ] **Problema 96:** Implemente uma **Lista Ligada (Linked List)**.
+- [ ] **Problema 97:** Implemente uma **Árvore Binária de Busca (BST)** (métodos `insert`, `search`). 
+
+[Image of Binary Search Tree data structure]
+
+
+### 5. Desafios Clássicos e Otimização
+- [ ] **Problema 98:** (Programação Dinâmica) Resolva o problema do "Troco" (mínimo de moedas).
+- [ ] **Problema 99:** (Backtracking) Resolva o problema das 8 Rainhas.
+- [ ] **Problema 100:** (Grafos) Implemente o Algoritmo de Dijkstra (caminho mais curto). 
