@@ -41,7 +41,7 @@ Use esta lista para acompanhar seu progresso. Marque os exercícios que você co
 - [X] **Problema 22:** Imprima os números de 10 a 1.
 - [X] **Problema 23:** Imprima todos os números pares de 1 a 100.
 - [X] **Problema 24:** Peça um número e imprima a tabuada dele (de 1 a 10).
-- [ ] **Problema 25:** Some todos os números de 1 a 100.
+- [X] **Problema 25:** Some todos os números de 1 a 100.
 - [ ] **Problema 26:** Peça um número e calcule seu fatorial (ex: 5! = 5*4*3*2*1).
 - [ ] **Problema 27:** Use um loop `while` para pedir a senha ao usuário até que ele digite a senha correta ("1234").
 - [ ] **Problema 28:** Peça 5 números ao usuário e, ao final, mostre a soma e a média deles.
